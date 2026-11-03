@@ -53,20 +53,6 @@ Animate three skill bars from zero width to different percentages and back using
 
 ![task8](screenshots/task8.png)
 
-## Project Structure
-```
-assignment6-portfolio/
-├── index.html
-├── style.css
-├── script.js
-├── images/
-│   ├── coding.svg
-│   └── nature.svg
-├── screenshots/
-│   └── ADD_YOUR_SCREENSHOTS_HERE.txt
-└── README.md
-```
-
 
 ## Work Process Summary
 I created the HTML structure, added responsive CSS styling, connected jQuery through a CDN, and implemented all nine tasks using jQuery selectors, event handlers, effects and animations. I checked the interface in a browser and prepared documentation for the assignment.
